@@ -16,7 +16,7 @@ try:
         if not usr:
             print('        Olá AntoninMaker :D')
             sleep(1.4)
-        print(persuxf.rstrip(), '2.0\n\n')
+            print('Antonin Maker')
         user = (open('.usuario', 'r')).readline()
         print(f'''{ve}┏━━━━━━━━━━━━━━━━━┓
   {am}[ 1 ] {br}-{cy} letra
